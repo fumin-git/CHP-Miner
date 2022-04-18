@@ -1,0 +1,416 @@
+{
+    "a0": [
+        "A2",
+        "Private"
+    ],
+    "a1": [
+        "A2",
+        "Self-emp-not-inc"
+    ],
+    "a2": [
+        "A2",
+        "Self-emp-inc"
+    ],
+    "a3": [
+        "A2",
+        "Federal-gov"
+    ],
+    "a4": [
+        "A2",
+        "Local-gov"
+    ],
+    "a5": [
+        "A2",
+        "State-gov"
+    ],
+    "a6": [
+        "A2",
+        "Without-pay"
+    ],
+    "a7": [
+        "A2",
+        "Never-worked"
+    ],
+    "a8": [
+        "A4",
+        "Bachelors"
+    ],
+    "a9": [
+        "A4",
+        "Some-college"
+    ],
+    "a10": [
+        "A4",
+        "11th"
+    ],
+    "a11": [
+        "A4",
+        "HS-grad"
+    ],
+    "a12": [
+        "A4",
+        "Prof-school"
+    ],
+    "a13": [
+        "A4",
+        "Assoc-acdm"
+    ],
+    "a14": [
+        "A4",
+        "Assoc-voc"
+    ],
+    "a15": [
+        "A4",
+        "9th"
+    ],
+    "a16": [
+        "A4",
+        "7th-8th"
+    ],
+    "a17": [
+        "A4",
+        "12th"
+    ],
+    "a18": [
+        "A4",
+        "Masters"
+    ],
+    "a19": [
+        "A4",
+        "1st-4th"
+    ],
+    "a20": [
+        "A4",
+        "10th"
+    ],
+    "a21": [
+        "A4",
+        "Doctorate"
+    ],
+    "a22": [
+        "A4",
+        "5th-6th"
+    ],
+    "a23": [
+        "A4",
+        "Preschool"
+    ],
+    "a24": [
+        "A6",
+        "Married-civ-spouse"
+    ],
+    "a25": [
+        "A6",
+        "Divorced"
+    ],
+    "a26": [
+        "A6",
+        "Never-married"
+    ],
+    "a27": [
+        "A6",
+        "Separated"
+    ],
+    "a28": [
+        "A6",
+        "Widowed"
+    ],
+    "a29": [
+        "A6",
+        "Married-spouse-absent"
+    ],
+    "a30": [
+        "A6",
+        "Married-AF-spouse"
+    ],
+    "a31": [
+        "A7",
+        "Tech-support"
+    ],
+    "a32": [
+        "A7",
+        "Craft-repair"
+    ],
+    "a33": [
+        "A7",
+        "Other-service"
+    ],
+    "a34": [
+        "A7",
+        "Sales"
+    ],
+    "a35": [
+        "A7",
+        "Exec-managerial"
+    ],
+    "a36": [
+        "A7",
+        "Prof-specialty"
+    ],
+    "a37": [
+        "A7",
+        "Handlers-cleaners"
+    ],
+    "a38": [
+        "A7",
+        "Machine-op-inspct"
+    ],
+    "a39": [
+        "A7",
+        "Adm-clerical"
+    ],
+    "a40": [
+        "A7",
+        "Farming-fishing"
+    ],
+    "a41": [
+        "A7",
+        "Transport-moving"
+    ],
+    "a42": [
+        "A7",
+        "Priv-house-serv"
+    ],
+    "a43": [
+        "A7",
+        "Protective-serv"
+    ],
+    "a44": [
+        "A7",
+        "Armed-Forces"
+    ],
+    "a45": [
+        "A8",
+        "Wife"
+    ],
+    "a46": [
+        "A8",
+        "Own-child"
+    ],
+    "a47": [
+        "A8",
+        "Husband"
+    ],
+    "a48": [
+        "A8",
+        "Not-in-family"
+    ],
+    "a49": [
+        "A8",
+        "Other-relative"
+    ],
+    "a50": [
+        "A8",
+        "Unmarried"
+    ],
+    "a51": [
+        "A9",
+        "White"
+    ],
+    "a52": [
+        "A9",
+        "Asian-Pac-Islander"
+    ],
+    "a53": [
+        "A9",
+        "Amer-Indian-Eskimo"
+    ],
+    "a54": [
+        "A9",
+        "Other"
+    ],
+    "a55": [
+        "A9",
+        "Black"
+    ],
+    "a56": [
+        "A10",
+        "Female"
+    ],
+    "a57": [
+        "A10",
+        "Male"
+    ],
+    "a58": [
+        "A14",
+        "United-States"
+    ],
+    "a59": [
+        "A14",
+        "Cambodia"
+    ],
+    "a60": [
+        "A14",
+        "England"
+    ],
+    "a61": [
+        "A14",
+        "Puerto-Rico"
+    ],
+    "a62": [
+        "A14",
+        "Canada"
+    ],
+    "a63": [
+        "A14",
+        "Germany"
+    ],
+    "a64": [
+        "A14",
+        "Outlying-US(Guam-USVI-etc)"
+    ],
+    "a65": [
+        "A14",
+        "India"
+    ],
+    "a66": [
+        "A14",
+        "Japan"
+    ],
+    "a67": [
+        "A14",
+        "Greece"
+    ],
+    "a68": [
+        "A14",
+        "South"
+    ],
+    "a69": [
+        "A14",
+        "China"
+    ],
+    "a70": [
+        "A14",
+        "Cuba"
+    ],
+    "a71": [
+        "A14",
+        "Iran"
+    ],
+    "a72": [
+        "A14",
+        "Honduras"
+    ],
+    "a73": [
+        "A14",
+        "Philippines"
+    ],
+    "a74": [
+        "A14",
+        "Italy"
+    ],
+    "a75": [
+        "A14",
+        "Poland"
+    ],
+    "a76": [
+        "A14",
+        "Jamaica"
+    ],
+    "a77": [
+        "A14",
+        "Vietnam"
+    ],
+    "a78": [
+        "A14",
+        "Mexico"
+    ],
+    "a79": [
+        "A14",
+        "Portugal"
+    ],
+    "a80": [
+        "A14",
+        "Ireland"
+    ],
+    "a81": [
+        "A14",
+        "France"
+    ],
+    "a82": [
+        "A14",
+        "Dominican-Republic"
+    ],
+    "a83": [
+        "A14",
+        "Laos"
+    ],
+    "a84": [
+        "A14",
+        "Ecuador"
+    ],
+    "a85": [
+        "A14",
+        "Taiwan"
+    ],
+    "a86": [
+        "A14",
+        "Haiti"
+    ],
+    "a87": [
+        "A14",
+        "Columbia"
+    ],
+    "a88": [
+        "A14",
+        "Hungary"
+    ],
+    "a89": [
+        "A14",
+        "Guatemala"
+    ],
+    "a90": [
+        "A14",
+        "Nicaragua"
+    ],
+    "a91": [
+        "A14",
+        "Scotland"
+    ],
+    "a92": [
+        "A14",
+        "Thailand"
+    ],
+    "a93": [
+        "A14",
+        "Yugoslavia"
+    ],
+    "a94": [
+        "A14",
+        "El-Salvador"
+    ],
+    "a95": [
+        "A14",
+        "Trinadad&Tobago"
+    ],
+    "a96": [
+        "A14",
+        "Peru"
+    ],
+    "a97": [
+        "A14",
+        "Hong"
+    ],
+    "a98": [
+        "A14",
+        "Holand-Netherlands"
+    ],
+    "a99": [
+        "A1"
+    ],
+    "a100": [
+        "A3"
+    ],
+    "a101": [
+        "A5"
+    ],
+    "a102": [
+        "A11"
+    ],
+    "a103": [
+        "A12"
+    ],
+    "a104": [
+        "A13"
+    ]
+}
