@@ -10,5 +10,5 @@ CHP-Miner was implemented in Java with JDK version 1.8.
 ## Datasets:
 Folder **data** contains datasets used in this paper.
 
-## Attribute maps:
+## Attribute mapping:
 Folder **attribute_maps** contains mapping information for attribute indexes, full names, abbreviations, and attribute values.
