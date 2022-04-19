@@ -69,20 +69,6 @@ public class Result {
     }
 
 
-//    public String toString(){
-//        String replace = "protein is null";
-//        if (this.protein != null) {
-//            replace = this.protein.toString();
-//        }
-//        return "single pattern : " + replace +
-//                "\tposSupport :" + this.support +
-//                "\tnegSupport :" + this.negSupport +
-//                "\tfitness : " + this.fitness +
-//                "\tratio : " + this.ratio+
-//                "\tgeneration : " + this.generate;
-//    }
-
-
     public String toStringCombine(){
         return  "hybrid expression : " + this.combineString +
                 "\tcscore : " + this.ratio +
@@ -90,8 +76,6 @@ public class Result {
                 "\tnegSupport : " + this.negSupport +
                 "\tgeneration : " + this.generate;
     }
-
-
 
     @Override
     public boolean equals(Object o) {

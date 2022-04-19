@@ -1,0 +1,32 @@
+{
+    "a0": {
+        "full name": "age",
+        "abbreviation": "Age",
+        "value": "continuous"
+    },
+    "a1": {
+        "full name": "TSH",
+        "abbreviation": "TSH",
+        "value": "continuous"
+    },
+    "a2": {
+        "full name": "T3",
+        "abbreviation": "T3",
+        "value": "continuous"
+    },
+    "a3": {
+        "full name": "TT4",
+        "abbreviation": "TT4",
+        "value": "continuous"
+    },
+    "a4": {
+        "full name": "T4U",
+        "abbreviation": "T4U",
+        "value": "continuous"
+    },
+    "a5": {
+        "full name": "FTI",
+        "abbreviation": "FTI",
+        "value": "continuous"
+    }
+}

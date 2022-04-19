@@ -493,30 +493,5 @@
         "full name": "native-country",
         "abbreviation": "Nac",
         "value": "Holand-Netherlands"
-    },
-    "a99": {
-        "full name": "age",
-        "abbreviation": "Age",
-        "value": "continuous"
-    },
-    "a100": {
-        "full name": "fnlwgt",
-        "abbreviation": "Fn",
-        "value": "continuous"
-    },
-    "a102": {
-        "full name": "capital-gain",
-        "abbreviation": "Cg",
-        "value": "continuous"
-    },
-    "a103": {
-        "full name": "capital-loss",
-        "abbreviation": "Cal",
-        "value": "continuous"
-    },
-    "a104": {
-        "full name": "hours-per-week",
-        "abbreviation": "Hpw",
-        "value": "continuous"
     }
 }

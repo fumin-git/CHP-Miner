@@ -203,35 +203,5 @@
         "full name": "A13",
         "abbreviation": "T13",
         "value": "s"
-    },
-    "a41": {
-        "full name": "A2",
-        "abbreviation": "T2",
-        "value": "continuous"
-    },
-    "a42": {
-        "full name": "A3",
-        "abbreviation": "T3",
-        "value": "continuous"
-    },
-    "a43": {
-        "full name": "A8",
-        "abbreviation": "T8",
-        "value": "continuous"
-    },
-    "a44": {
-        "full name": "A11",
-        "abbreviation": "T11",
-        "value": "continuous"
-    },
-    "a45": {
-        "full name": "A13",
-        "abbreviation": "T14",
-        "value": "continuous"
-    },
-    "a46": {
-        "full name": "A15",
-        "abbreviation": "T15",
-        "value": "continuous"
     }
 }

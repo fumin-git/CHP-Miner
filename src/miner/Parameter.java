@@ -4,15 +4,15 @@ package miner;
  * 所有可能的参数
  */
 public class Parameter {
-    public static String posDataPath = "data/credit/gep_pos.txt"; //正例数据集的url
-    public static String negDataPath = "data/credit/gep_neg.txt"; //负例数据集的url
+    public static String posDataPath = "data/credit/gep_pos.txt"; //D1
+    public static String negDataPath = "data/credit/gep_neg.txt"; //D2
 
-    public static double ratioThreshold = 1; // 支持度比值阈值
+    public static double ratioThreshold = 1; // cscore threshold
 
     //allhypo
-//    public static int splitIndex = 29;
-//    public static int boolIndexCount = 30;
-//    public static int logicalIndexCount = 6;
+    public static int splitIndex = 29;
+    public static int boolIndexCount = 30;
+    public static int logicalIndexCount = 6;
 
     //band
 //    public static int splitIndex = 59;
@@ -20,9 +20,9 @@ public class Parameter {
 //    public static int logicalIndexCount = 19;
 
     //credit
-    public static int splitIndex = 40;
-    public static int boolIndexCount = 41;
-    public static int logicalIndexCount = 6;
+//    public static int splitIndex = 40;
+//    public static int boolIndexCount = 41;
+//    public static int logicalIndexCount = 6;
 
 
     //income
@@ -46,7 +46,7 @@ public class Parameter {
     public static int combineGepSize = 100;
 
     public static int maxL = 15;
-    public static final String dataset = "credit";
+    public static final String dataset = "allhypo";
 
 
 }

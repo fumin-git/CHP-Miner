@@ -1,0 +1,97 @@
+{
+    "a0": {
+        "full name": "proof cut",
+        "abbreviation": "Prc",
+        "value": "continuous"
+    },
+    "a1": {
+        "full name": "viscosity",
+        "abbreviation": "Vis",
+        "value": "continuous"
+    },
+    "a2": {
+        "full name": "caliper",
+        "abbreviation": "Cal",
+        "value": "continuous"
+    },
+    "a3": {
+        "full name": "ink temperature",
+        "abbreviation": "Ite",
+        "value": "continuous"
+    },
+    "a4": {
+        "full name": "humifity",
+        "abbreviation": "Hum",
+        "value": "continuous"
+    },
+    "a5": {
+        "full name": "roughness",
+        "abbreviation": "Rou",
+        "value": "continuous"
+    },
+    "a6": {
+        "full name": "blade pressure",
+        "abbreviation": "Blp",
+        "value": "continuous"
+    },
+    "a7": {
+        "full name": "varnish pct",
+        "abbreviation": "Vap",
+        "value": "continuous"
+    },
+    "a8": {
+        "full name": "press speed",
+        "abbreviation": "Prs",
+        "value": "continuous"
+    },
+    "a9": {
+        "full name": "ink pct",
+        "abbreviation": "Ipc",
+        "value": "continuous"
+    },
+    "a10": {
+        "full name": "solvent pct",
+        "abbreviation": "Sop",
+        "value": "continuous"
+    },
+    "a11": {
+        "full name": "ESA Voltage",
+        "abbreviation": "Esv",
+        "value": "continuous"
+    },
+    "a12": {
+        "full name": "ESA Amperage",
+        "abbreviation": "Esa",
+        "value": "continuous"
+    },
+    "a13": {
+        "full name": "wax",
+        "abbreviation": "Wax",
+        "value": "continuous"
+    },
+    "a14": {
+        "full name": "hardener",
+        "abbreviation": "Har",
+        "value": "continuous"
+    },
+    "a15": {
+        "full name": "roller durometer",
+        "abbreviation": "Rod",
+        "value": "continuous"
+    },
+    "a16": {
+        "full name": "current density",
+        "abbreviation": "Cud",
+        "value": "continuous"
+    },
+    "a17": {
+        "full name": "anode space ratio",
+        "abbreviation": "Asr",
+        "value": "continuous"
+    },
+    "a18": {
+        "full name": "band type",
+        "abbreviation": "Bat",
+        "value": "continuous"
+    }
+}
