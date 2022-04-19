@@ -1,0 +1,172 @@
+{
+    "a0": {
+        "full name": "sex",
+        "abbreviation": "Sex",
+        "value": "M"
+    },
+    "a1": {
+        "full name": "sex",
+        "abbreviation": "Sex",
+        "value": "F"
+    },
+    "a2": {
+        "full name": "on thyroxine",
+        "abbreviation": "Ot",
+        "value": "t"
+    },
+    "a3": {
+        "full name": "on thyroxine",
+        "abbreviation": "Ot",
+        "value": "f"
+    },
+    "a4": {
+        "full name": "query on thyroxine",
+        "abbreviation": "Qot",
+        "value": "t"
+    },
+    "a5": {
+        "full name": "query on thyroxine",
+        "abbreviation": "Qot",
+        "value": "f"
+    },
+    "a6": {
+        "full name": "on antithyroid medication",
+        "abbreviation": "Oam",
+        "value": "t"
+    },
+    "a7": {
+        "full name": "on antithyroid medication",
+        "abbreviation": "Oam",
+        "value": "f"
+    },
+    "a10": {
+        "full name": "pregnant",
+        "abbreviation": "Pre",
+        "value": "t"
+    },
+    "a11": {
+        "full name": "pregnant",
+        "abbreviation": "Pre",
+        "value": "f"
+    },
+    "a12": {
+        "full name": "thyroid surgery",
+        "abbreviation": "Ts",
+        "value": "t"
+    },
+    "a13": {
+        "full name": "thyroid surgery",
+        "abbreviation": "Ts",
+        "value": "f"
+    },
+    "a14": {
+        "full name": "I131 treatment",
+        "abbreviation": "Tre",
+        "value": "t"
+    },
+    "a15": {
+        "full name": "I131 treatment",
+        "abbreviation": "Tre",
+        "value": "f"
+    },
+    "a16": {
+        "full name": "query hypothyroid",
+        "abbreviation": "Qho",
+        "value": "t"
+    },
+    "a17": {
+        "full name": "query hypothyroid",
+        "abbreviation": "Qho",
+        "value": "f"
+    },
+    "a18": {
+        "full name": "query hyperthyroid",
+        "abbreviation": "Qhe",
+        "value": "t"
+    },
+    "a19": {
+        "full name": "query hyperthyroid",
+        "abbreviation": "Qhe",
+        "value": "f"
+    },
+    "a20": {
+        "full name": "lithium",
+        "abbreviation": "Lit",
+        "value": "t"
+    },
+    "a21": {
+        "full name": "lithium",
+        "abbreviation": "Lit",
+        "value": "f"
+    },
+    "a22": {
+        "full name": "goitre",
+        "abbreviation": "Goi",
+        "value": "t"
+    },
+    "a23": {
+        "full name": "goitre",
+        "abbreviation": "Goi",
+        "value": "f"
+    },
+    "a24": {
+        "full name": "tumor",
+        "abbreviation": "Tum",
+        "value": "t"
+    },
+    "a25": {
+        "full name": "tumor",
+        "abbreviation": "Tum",
+        "value": "f"
+    },
+    "a26": {
+        "full name": "hypopituitary",
+        "abbreviation": "Hyp",
+        "value": "t"
+    },
+    "a27": {
+        "full name": "hypopituitary",
+        "abbreviation": "Hyp",
+        "value": "f"
+    },
+    "a28": {
+        "full name": "psych",
+        "abbreviation": "Psy",
+        "value": "t"
+    },
+    "a29": {
+        "full name": "psych",
+        "abbreviation": "Psy",
+        "value": "f"
+    },
+    "a30": {
+        "full name": "age",
+        "abbreviation": "Age",
+        "value": "continuous"
+    },
+    "a31": {
+        "full name": "TSH",
+        "abbreviation": "TSH",
+        "value": "continuous"
+    },
+    "a32": {
+        "full name": "T3",
+        "abbreviation": "T3",
+        "value": "continuous"
+    },
+    "a33": {
+        "full name": "TT4",
+        "abbreviation": "TT4",
+        "value": "continuous"
+    },
+    "a34": {
+        "full name": "T4U",
+        "abbreviation": "T4U",
+        "value": "continuous"
+    },
+    "a35": {
+        "full name": "FTI",
+        "abbreviation": "FTI",
+        "value": "continuous"
+    }
+}
