@@ -19,7 +19,7 @@ public class Main implements Runnable{
     public List<Result> finalResult = new ArrayList<>();
 
     public static void main(String[] args) {
-        int runTimes = 2;
+        int runTimes = 100;
         for (int i = 0; i < runTimes; i++) {
             System.out.println("runTimes: "+(i));
             Main main = new Main();

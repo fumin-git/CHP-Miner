@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="08f7ecef-33a0-4140-88c7-6c8dd0d1c1e5" name="Changes" comment="update readme">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/miner/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/miner/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -198,7 +198,7 @@
       <workItem from="1645704649608" duration="33808000" />
       <workItem from="1645798946482" duration="86994000" />
       <workItem from="1650293530450" duration="1953000" />
-      <workItem from="1650295863983" duration="6202000" />
+      <workItem from="1650295863983" duration="6460000" />
     </task>
     <task id="LOCAL-00001" summary="CHPMiner">
       <created>1650294049219</created>
@@ -270,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650371247427</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="update readme">
+      <created>1650376686238</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1650376686238</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
