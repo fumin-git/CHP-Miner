@@ -1,0 +1,207 @@
+{
+    "a0": {
+        "full name": "A1",
+        "abbreviation": "T1",
+        "value": "b"
+    },
+    "a1": {
+        "full name": "A1",
+        "abbreviation": "T1",
+        "value": "a"
+    },
+    "a2": {
+        "full name": "A4",
+        "abbreviation": "T4",
+        "value": "u"
+    },
+    "a3": {
+        "full name": "A4",
+        "abbreviation": "T4",
+        "value": "y"
+    },
+    "a4": {
+        "full name": "A4",
+        "abbreviation": "T4",
+        "value": "l"
+    },
+    "a5": {
+        "full name": "A4",
+        "abbreviation": "T4",
+        "value": "t"
+    },
+    "a6": {
+        "full name": "A5",
+        "abbreviation": "T5",
+        "value": "g"
+    },
+    "a7": {
+        "full name": "A5",
+        "abbreviation": "T5",
+        "value": "p"
+    },
+    "a8": {
+        "full name": "A5",
+        "abbreviation": "T5",
+        "value": "gg"
+    },
+    "a9": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "c"
+    },
+    "a10": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "d"
+    },
+    "a11": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "cc"
+    },
+    "a12": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "i"
+    },
+    "a13": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "j"
+    },
+    "a14": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "k"
+    },
+    "a15": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "m"
+    },
+    "a16": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "r"
+    },
+    "a17": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "q"
+    },
+    "a18": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "w"
+    },
+    "a19": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "x"
+    },
+    "a20": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "e"
+    },
+    "a21": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "aa"
+    },
+    "a22": {
+        "full name": "A6",
+        "abbreviation": "T6",
+        "value": "ff"
+    },
+    "a23": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "v"
+    },
+    "a24": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "h"
+    },
+    "a25": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "bb"
+    },
+    "a26": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "j"
+    },
+    "a27": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "n"
+    },
+    "a28": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "z"
+    },
+    "a29": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "dd"
+    },
+    "a30": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "ff"
+    },
+    "a31": {
+        "full name": "A7",
+        "abbreviation": "T7",
+        "value": "o"
+    },
+    "a32": {
+        "full name": "A9",
+        "abbreviation": "T9",
+        "value": "t"
+    },
+    "a33": {
+        "full name": "A9",
+        "abbreviation": "T9",
+        "value": "f"
+    },
+    "a34": {
+        "full name": "A10",
+        "abbreviation": "T10",
+        "value": "t"
+    },
+    "a35": {
+        "full name": "A10",
+        "abbreviation": "T10",
+        "value": "f"
+    },
+    "a36": {
+        "full name": "A12",
+        "abbreviation": "T12",
+        "value": "t"
+    },
+    "a37": {
+        "full name": "A12",
+        "abbreviation": "T12",
+        "value": "f"
+    },
+    "a38": {
+        "full name": "A13",
+        "abbreviation": "T13",
+        "value": "g"
+    },
+    "a39": {
+        "full name": "A13",
+        "abbreviation": "T13",
+        "value": "p"
+    },
+    "a40": {
+        "full name": "A13",
+        "abbreviation": "T13",
+        "value": "s"
+    }
+}

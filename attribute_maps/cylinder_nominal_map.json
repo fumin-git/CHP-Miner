@@ -1,0 +1,302 @@
+{
+    "a0": {
+        "full name": "grain screened",
+        "abbreviation": "Grs",
+        "value": "YES"
+    },
+    "a1": {
+        "full name": "grain screened",
+        "abbreviation": "Grs",
+        "value": "NO"
+    },
+    "a2": {
+        "full name": "ink colo",
+        "abbreviation": "Ico",
+        "value": "KEY"
+    },
+    "a3": {
+        "full name": "ink colo",
+        "abbreviation": "Ico",
+        "value": "TYPE"
+    },
+    "a4": {
+        "full name": "proof on ctd ink",
+        "abbreviation": "Pci",
+        "value": "YES"
+    },
+    "a5": {
+        "full name": "proof on ctd ink",
+        "abbreviation": "Pci",
+        "value": "NO"
+    },
+    "a6": {
+        "full name": "blade mfg",
+        "abbreviation": "Blm",
+        "value": "BENTON"
+    },
+    "a7": {
+        "full name": "blade mfg",
+        "abbreviation": "Blm",
+        "value": "DAETWYLER"
+    },
+    "a8": {
+        "full name": "blade mfg",
+        "abbreviation": "Blm",
+        "value": "UDDEHOLM"
+    },
+    "a9": {
+        "full name": "cylinder division",
+        "abbreviation": "Cyd",
+        "value": "GALLATIN"
+    },
+    "a10": {
+        "full name": "cylinder division",
+        "abbreviation": "Cyd",
+        "value": "WARSAW"
+    },
+    "a11": {
+        "full name": "cylinder division",
+        "abbreviation": "Cyd",
+        "value": "MATTOON"
+    },
+    "a12": {
+        "full name": "paper type",
+        "abbreviation": "Pat",
+        "value": "UNCOATED"
+    },
+    "a13": {
+        "full name": "paper type",
+        "abbreviation": "Pat",
+        "value": "COATED"
+    },
+    "a14": {
+        "full name": "paper type",
+        "abbreviation": "Pat",
+        "value": "SUPER"
+    },
+    "a15": {
+        "full name": "ink type",
+        "abbreviation": "Ink",
+        "value": "UNCOATED"
+    },
+    "a16": {
+        "full name": "ink type",
+        "abbreviation": "Ink",
+        "value": "COATED"
+    },
+    "a17": {
+        "full name": "ink type",
+        "abbreviation": "Ink",
+        "value": "COVER"
+    },
+    "a18": {
+        "full name": "direct steam",
+        "abbreviation": "Dis",
+        "value": "YES"
+    },
+    "a19": {
+        "full name": "direct steam",
+        "abbreviation": "Dis",
+        "value": "NO"
+    },
+    "a20": {
+        "full name": "solvent type",
+        "abbreviation": "Sot",
+        "value": "XYLOL"
+    },
+    "a21": {
+        "full name": "solvent type",
+        "abbreviation": "Sot",
+        "value": "LACTOL"
+    },
+    "a22": {
+        "full name": "solvent type",
+        "abbreviation": "Sot",
+        "value": "NAPTHA"
+    },
+    "a23": {
+        "full name": "solvent type",
+        "abbreviation": "Sot",
+        "value": "LINE"
+    },
+    "a24": {
+        "full name": "solvent type",
+        "abbreviation": "Sot",
+        "value": "OTHER"
+    },
+    "a25": {
+        "full name": "type on cylinder",
+        "abbreviation": "Toc",
+        "value": "YES"
+    },
+    "a26": {
+        "full name": "type on cylinder",
+        "abbreviation": "Toc",
+        "value": "NO"
+    },
+    "a27": {
+        "full name": "press type",
+        "abbreviation": "Prt",
+        "value": "Motter94"
+    },
+    "a28": {
+        "full name": "press type",
+        "abbreviation": "Prt",
+        "value": "WoodHoe70"
+    },
+    "a29": {
+        "full name": "press type",
+        "abbreviation": "Prt",
+        "value": "Albert70"
+    },
+    "a30": {
+        "full name": "press type",
+        "abbreviation": "Prt",
+        "value": "Motter70"
+    },
+    "a31": {
+        "full name": "press",
+        "abbreviation": "Pre",
+        "value": "821"
+    },
+    "a32": {
+        "full name": "press",
+        "abbreviation": "Pre",
+        "value": "802"
+    },
+    "a33": {
+        "full name": "press",
+        "abbreviation": "Pre",
+        "value": "813"
+    },
+    "a34": {
+        "full name": "press",
+        "abbreviation": "Pre",
+        "value": "824"
+    },
+    "a35": {
+        "full name": "press",
+        "abbreviation": "Pre",
+        "value": "815"
+    },
+    "a36": {
+        "full name": "press",
+        "abbreviation": "Pre",
+        "value": "816"
+    },
+    "a37": {
+        "full name": "press",
+        "abbreviation": "Pre",
+        "value": "827"
+    },
+    "a38": {
+        "full name": "press",
+        "abbreviation": "Pre",
+        "value": "828"
+    },
+    "a39": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "1"
+    },
+    "a40": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "2"
+    },
+    "a41": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "3"
+    },
+    "a42": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "4"
+    },
+    "a43": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "5"
+    },
+    "a44": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "6"
+    },
+    "a45": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "7"
+    },
+    "a46": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "8"
+    },
+    "a47": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "9"
+    },
+    "a48": {
+        "full name": "unit number",
+        "abbreviation": "Unn",
+        "value": "10"
+    },
+    "a49": {
+        "full name": "cylinder size",
+        "abbreviation": "Cys",
+        "value": "CATALOG"
+    },
+    "a50": {
+        "full name": "cylinder size",
+        "abbreviation": "Cys",
+        "value": "SPIEGEL"
+    },
+    "a51": {
+        "full name": "cylinder size",
+        "abbreviation": "Cys",
+        "value": "TABLOID"
+    },
+    "a52": {
+        "full name": "paper mill location",
+        "abbreviation": "Pml",
+        "value": "NorthUS"
+    },
+    "a53": {
+        "full name": "paper mill location",
+        "abbreviation": "Pml",
+        "value": "SouthUS"
+    },
+    "a54": {
+        "full name": "paper mill location",
+        "abbreviation": "Pml",
+        "value": "CANADIAN"
+    },
+    "a55": {
+        "full name": "paper mill location",
+        "abbreviation": "Pml",
+        "value": "SCANDANAVIAN"
+    },
+    "a56": {
+        "full name": "paper mill location",
+        "abbreviation": "Pml",
+        "value": "mideuropean"
+    },
+    "a57": {
+        "full name": "plating tank",
+        "abbreviation": "Plt",
+        "value": "1910"
+    },
+    "a58": {
+        "full name": "plating tank",
+        "abbreviation": "Plt",
+        "value": "1911"
+    },
+    "a59": {
+        "full name": "plating tank",
+        "abbreviation": "Plt",
+        "value": "other"
+    }
+}

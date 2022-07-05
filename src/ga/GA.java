@@ -354,7 +354,7 @@ public abstract class GA {
                     allIndex.addAll(logicalIndex);
                     String comStr = getCombineExpression(combineProtein, boolProStrs, logicalProStrs, allIndex);
                     ratios = ratios + getDelta(comStr, this.maxL);
-                    System.out.println("hybrid expression: " + comStr);
+                    System.out.println("expression: " + comStr);
                     comres.setProtein(combineProtein);
                     comres.setCombineString(comStr);
                     comres.setSupport(sup0);

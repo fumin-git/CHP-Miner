@@ -1,0 +1,32 @@
+{
+    "a0": {
+    "full name": "A2",
+    "abbreviation": "A2",
+    "value": "continuous"
+    },
+    "a1": {
+        "full name": "A3",
+        "abbreviation": "A3",
+        "value": "continuous"
+    },
+    "a2": {
+        "full name": "A8",
+        "abbreviation": "A8",
+        "value": "continuous"
+    },
+    "a3": {
+        "full name": "A11",
+        "abbreviation": "A11",
+        "value": "continuous"
+    },
+    "a4": {
+        "full name": "A13",
+        "abbreviation": "A14",
+        "value": "continuous"
+    },
+    "a5": {
+        "full name": "A15",
+        "abbreviation": "T15",
+        "value": "continuous"
+    }
+}
