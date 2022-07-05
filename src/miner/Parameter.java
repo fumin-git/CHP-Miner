@@ -1,7 +1,7 @@
 package miner;
 
 /**
- * 所有可能的参数
+ * parameter
  */
 public class Parameter {
     public static String posDataPath = "data/credit/gep_pos.txt"; //D1
